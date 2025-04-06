@@ -1,3 +1,4 @@
+import clip
 import os
 import torch
 from transformers import DetrImageProcessor
